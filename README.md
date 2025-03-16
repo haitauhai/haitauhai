@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF79D&width=435&lines=Hello+everyone.....!!;I'm+Nguyen+Duc+Hai+from+Vietnam)](https://git.io/typing-svg)
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **in FPT Unviversity**
--  💼 Co-Founder/Mentor at **FunnyCode**
+- 🌱 I’m currently learning at **[FPT University](https://daihoc.fpt.edu.vn/)**  
+- 💼 Co-Founder/Mentor at **[FunnyCode](https://www.facebook.com/gogo.funnycode/)** 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
